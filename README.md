@@ -13,7 +13,7 @@ Some folks have reported alignment issues when opening in various applications. 
 Requests taken, but please either supply a print-quality logo, or a link to it. Actual, active Linux distros only, please.
 
 ## Copyright
-Any copyrighted artwork and images contained are property of their respective owners. If this pack violates your distro's copyright terms, notify me and your logo will be removed.
+This pack was created in the spirit of FOSS and is for hobbyist and personal use ONLY. Any copyrighted artwork and images contained are property of their respective owners. If this pack violates your distro's copyright terms, notify me and your logo will be removed.
 
 # Distros:
 AlmaLinux, Alpine, antiX, Arch, Archcraft, ArchLabs, ArcoLinux, Artix, Asahi Linux, Athena OS, BlendOS, Bodhi Linux, Buildroot, bunsenlabs, CachyOS, CentOS, Clear Linux OS, Crystal Linux, Debian, Deepin, Devuan, DragonFly BSD, Edubuntu, Elementary OS, EndeavourOS, Fedora, Feren OS, FreeBSD, Garuda, Gentoo, GhostBSD, Hyperbola, Kali, KaOS, KDE Neon, Kubuntu, Linux Lite, Linux Mint, Lubuntu, Mabox, Mageia, Manjaro, MidnightBSD, MX, Nitrux, NixOS, Nobara, openSUSE, ParrotOS, PCLinuxOS, Puppy Linux, Parabola, Pop!_OS, Q4OS, Qubes OS, RebornOS, Red Hat, Rhino Linux, risiOS, Rocky Linux, Siduction, Slackware, Sparky Linux, Tails, TrueNAS Open Storage, Tuxedo OS, Ubuntu, Ubuntu Budgie, Ubuntu MATE, Ubuntu Studio, Ultramarine, VanillaOS, Void, XeroLinux, Xubuntu, Zorin, and of course, Tux.
