@@ -1,5 +1,5 @@
 # StickerPack
-Linux distro stickers created in Inkscape. 71 distros represented. Just unhide the layer you want and export a sticker for printing at 300dpi. The stickers are oversized, so resize to your preference.
+Linux distro stickers created in Inkscape. 75 distros represented. Just unhide the layer you want and export a sticker for printing at 300dpi. The stickers are oversized, so resize to your preference.
 
 For personal / hobbyist use ONLY. Any copyrighted images are property of their respective owners. 
 
