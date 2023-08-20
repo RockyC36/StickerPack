@@ -21,4 +21,4 @@ AlmaLinux, Alpine, antiX, Arch, Archcraft, ArchLabs, ArcoLinux, Artix, Asahi Lin
 # Desktop Environments, Window Managers, and Shells
 awesome, BASH, Budgie, bspwm, Cinnamon, dwm, Enlightenment, Fish, Fluxbox, GNOME, herbsluftwm, Hyperland, i3, JWM, LXDE, LXQt, MATE, Plasma, Qtile, Sway Xfce, and xmonad
 
-![Sample Image](https://github.com/RockyC36/StickerPack/blob/main/sticker-sample.png)
+![Sample Image](https://github.com/RockyC36/StickerPack/blob/main/StickerPackGraphic-1.png)
