@@ -19,6 +19,6 @@ This pack was created in the spirit of FOSS and is for hobbyist and personal use
 AlmaLinux, Alpine, ALT, antiX, Arch, Archcraft, ArchLabs, ArcoLinux, Artix, Asahi Linux, Athena OS, BlendOS, Bodhi Linux, Buildroot, bunsenlabs, CachyOS, CentOS, Clear Linux OS, Crystal Linux, Debian, Deepin, Devuan, DragonFly BSD, Edubuntu, Elementary OS, EndeavourOS, Fedora, Feren OS, FreeBSD, Garuda, Gentoo, GhostBSD, Hyperbola, Kali, KaOS, KDE Neon, Kubuntu, Linux Lite, Linux Mint, Lubuntu, Mabox, Mageia, Makulu, Manjaro, MidnightBSD, MX, Nitrux, NixOS, Nobara, OpenMandriva, openSUSE, ParrotOS, PCLinuxOS, Peppermint, Puppy Linux, Parabola, Pop!_OS, Q4OS, Qubes OS, RebornOS, Red Hat, Rhino Linux, risiOS, Rocky Linux, ROSA, Siduction, Slackware, Solus, Sparky Linux, Tails, TrueNAS Open Storage, Tuxedo OS, Ubuntu, Ubuntu Budgie, Ubuntu MATE, Ubuntu Studio, Ultramarine, VanillaOS, Void, XeroLinux, Xubuntu, Zorin, and of course, Tux.
 
 # Desktop Environments, Window Managers, and Shells
-awesome, BASH, Budgie, bspwm, Cinnamon, dwm, Enlightenment, Fish, Fluxbox, GNOME, herbsluftwm, Hyperland, i3, JWM, LXDE, LXQt, MATE, Plasma, Qtile, Sway, Window Maker, Xfce, and xmonad
+awesome, BASH, Budgie, bspwm, Cinnamon, dwm, Enlightenment, Fish, Fluxbox, GNOME, herbsluftwm, Hyperland, i3, JWM, LXDE, LXQt, MATE, Plasma, Qtile, Sway, Window Maker, Xfce, xmonad, and ZSH.
 
 ![Sample Image](https://github.com/RockyC36/StickerPack/blob/main/StickerPackGraphic-1.png)
