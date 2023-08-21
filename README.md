@@ -1,5 +1,5 @@
 # StickerPack
-Printable "Powered by" Linux stickers created in Inkscape. 86 distros, along with 23 desktop environments, window managers, and shells represented. Just unhide the layer you want and export a sticker for printing at 300dpi. The stickers are oversized, so resize to your preference.
+Printable "Powered by" Linux stickers created in Inkscape. 86 distros, PLUS 23 desktop environments, window managers, and shells represented. Just unhide the layer you want and export a sticker for printing at 300dpi. The stickers are oversized, so resize to your preference.
 
 ![Sample Image](https://github.com/RockyC36/StickerPack/blob/main/StickerPackGraphic-1.png)
 
