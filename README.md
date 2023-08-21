@@ -1,15 +1,13 @@
 # StickerPack
 Printable "Powered by" Linux stickers created in Inkscape. 86 distros, along with 23 desktop environments, window managers, and shells represented. Just unhide the layer you want and export a sticker for printing at 300dpi. The stickers are oversized, so resize to your preference.
 
-For personal / hobbyist use ONLY.
-
 ![Sample Image](https://github.com/RockyC36/StickerPack/blob/main/StickerPackGraphic-1.png)
 
 ## Downloading
 Click the green "Code" button, then choose "Download ZIP."
 
 ## Issues
-Some folks have reported alignment issues when opening in various applications. This file is created and maintained / updated in [Inkscape](https://inkscape.org/), freely available for Windows, macOS, and Linux. I can't troubleshoot alignment issues in other apps, sorry.
+Some folks have reported alignment issues when opening in various applications. This file is created and maintained using [Inkscape](https://inkscape.org/), freely available for Windows, macOS, and Linux. I can't troubleshoot alignment issues in other apps, sorry.
 
 ## Requests
 Requests taken, but please either supply a print-quality logo, or a link to it. Actual, active Linux distros, DEs, WMs, or shells only, please.
