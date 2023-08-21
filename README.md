@@ -1,7 +1,9 @@
 # StickerPack
 Printable "Powered by" Linux stickers created in Inkscape. 86 distros, along with 23 desktop environments, window managers, and shells represented. Just unhide the layer you want and export a sticker for printing at 300dpi. The stickers are oversized, so resize to your preference.
 
-For personal / hobbyist use ONLY. Any copyrighted artwork and images are property of their respective owners. 
+For personal / hobbyist use ONLY.
+
+![Sample Image](https://github.com/RockyC36/StickerPack/blob/main/StickerPackGraphic-1.png)
 
 ## Downloading
 Click the green "Code" button, then choose "Download ZIP."
@@ -21,4 +23,4 @@ AlmaLinux, Alpine, ALT, antiX, Arch, Archcraft, ArchLabs, ArcoLinux, Artix, Asah
 # Desktop Environments, Window Managers, and Shells
 awesome, BASH, Budgie, bspwm, Cinnamon, dwm, Enlightenment, Fish, Fluxbox, GNOME, herbsluftwm, Hyperland, i3, JWM, LXDE, LXQt, MATE, Plasma, Qtile, Sway, Window Maker, Xfce, xmonad, and ZSH.
 
-![Sample Image](https://github.com/RockyC36/StickerPack/blob/main/StickerPackGraphic-1.png)
+
