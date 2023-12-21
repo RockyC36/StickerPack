@@ -11,7 +11,54 @@
 
 
 ## Distros:
-AlmaLinux, Alpine, ALT, antiX, Arch, Archcraft, ArchLabs, ArcoLinux, Artix, Asahi Linux, Athena OS, BlendOS, Bodhi Linux, Buildroot, bunsenlabs, CachyOS, CentOS, ChimeraOS, Clear Linux OS, Crystal Linux, Debian, Deepin, Devuan, DragonFly BSD, /e/OS, Edubuntu, Elementary OS, Emmabuntüs, EndeavourOS, Fedora, Feren OS, FreeBSD, Garuda, Gentoo, GhostBSD, Guix, Hyperbola, Kali, KaOS, KDE Neon, Kubuntu, LineageOS, Linux Lite, Linux Mint, Lubuntu, Mabox, Mageia, Makulu, Manjaro, MidnightBSD, Mobian, MX, NetBSD, Nitrux, NixOS, Nobara, OpenMandriva, openSUSE, Pardus, ParrotOS, PCLinuxOS, Peppermint, PostmarketOS, Puppy Linux, Parabola, Pop!_OS, Q4OS, Qubes OS, RebornOS, Red Hat, Rhino Linux, risiOS, Rocky Linux, ROSA, Siduction, Slackware, Solus, Sparky Linux, Steam OS, Tails, Trisquel, TrueNAS Open Storage, Tuxedo OS, Ubuntu, Ubuntu Budgie, Ubuntu MATE, Ubuntu Studio, Ultramarine, VanillaOS, Void, XeroLinux, Xubuntu, Yuno Host, Zorin, and of course, Tux.
+### A
+AlmaLinux, Alpine, ALT, antiX, Arch, Archcraft, ArchLabs, ArcoLinux, Artix, Asahi Linux, Athena OS
+### B 
+BlendOS, Bodhi Linux, Buildroot, bunsenlabs
+### C
+CachyOS, CentOS, ChimeraOS, Clear Linux OS, Crystal Linux
+### D
+Debian, Deepin, Devuan, DragonFly BSD
+### E
+/e/OS, Edubuntu, Elementary OS, Emmabuntüs, EndeavourOS
+### F
+Fedora, Feren OS, FreeBSD
+### G
+Garuda, Gentoo, GhostBSD, Guix
+### H
+Hyperbola
+### K
+Kali, KaOS, KDE Neon, Kubuntu
+### L
+LineageOS, Linux Lite, Linux Mint, Lubuntu
+### M
+Mabox, Mageia, Makulu, Manjaro, MidnightBSD, Mobian, MX
+### N
+NetBSD, Nitrux, NixOS, Nobara
+### O
+OpenMandriva, openSUSE
+### P
+Pardus, ParrotOS, PCLinuxOS, Peppermint, PostmarketOS, Puppy Linux, Parabola, Pop!_OS
+### Q
+Q4OS, Qubes OS
+### R
+RebornOS, Red Hat, Rhino Linux, risiOS, Rocky Linux, ROSA
+### S
+Siduction, Slackware, Solus, Sparky Linux, Steam OS
+### T
+Tails, Trisquel, TrueNAS Open Storage, Tuxedo OS
+### U
+Ubuntu, Ubuntu Budgie, Ubuntu MATE, Ubuntu Studio, Ultramarine
+### V
+VanillaOS, Void
+### X
+XeroLinux, Xubuntu
+### Y
+Yuno Host
+### Z
+Zorin
+
+...and of course, Tux.
 
 ## Desktop Environments
 Budgie, Cinnamon, Enlightenment, GNOME, LXDE, LXQt, MATE, Plasma, Xfce
